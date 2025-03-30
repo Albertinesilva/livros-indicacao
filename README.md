@@ -1,4 +1,4 @@
-# Livros que eu acho que você deve conhecer
+<h1 align="center">📚 Livros que eu acho que você deve conhecer</h1>
 
  <p align="left">
   <img src=https://thumbs.gfycat.com/CelebratedFoolhardyAssassinbug-max-1mb.gif> 
